@@ -10,6 +10,12 @@ This project demonstrates the use of the CrewAI framework to automate the proces
 - [Contributing](#contributing)
 - [Support and Contact](#support-and-contact)
 - [License](#license)
+  
+### Agent Extracting Relevant Information from CV
+![Extracting snap](https://github.com/PranayHaldiya/match_profile_to_positionss/blob/main/src/match_to_proposal/data/Screenshot%202025-01-25%20170944.png)
+
+### Agent Matching The CV to the Job Proposals
+![Matching snap](https://github.com/PranayHaldiya/match_profile_to_positionss/blob/main/src/match_to_proposal/data/Screenshot%202025-01-25%20171020.png)
 
 ## CrewAI Framework
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to extract relevant information from CVs and match them to job opportunities, ensuring the best fit between candidates and job roles.
